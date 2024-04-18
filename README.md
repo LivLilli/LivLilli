@@ -11,7 +11,7 @@ I'm a Data Scientist and a PhD Student in Healtcare AI at Gemelli Hospital of Ro
 
 ## 💻 My Tech Stack:
 
-[![py, pytorch, tensorflow, pycharm, linux, r, mongodb, mysql, html, css, bootstrap, django, git, docker](https://skillicons.dev/icons?i=py, pytorch, tensorflow, pycharm, linux, r, mongodb, mysql, html, css, bootstrap, django, git, docker)](https://skillicons.dev)
+[![py, pytorch, tensorflow, pycharm, linux, r, mongodb, mysql, html, css, bootstrap, django, git, docker](https://skillicons.dev/icons?i=py,pytorch,tensorflow,pycharm,linux,r,mongodb,mysql,html,css,bootstrap,django,git,docker)](https://skillicons.dev)
 
     
                     
