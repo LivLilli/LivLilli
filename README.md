@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Livia Lilli
 ===================================================================================================================================
-![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
+![https://scholar.google.com/citations?user=RKLb-XMAAAAJ&hl=it](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
 
 I'm a Data Scientist and a PhD Student in Healtcare AI at Gemelli Hospital of Rome.
 
