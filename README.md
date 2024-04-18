@@ -13,6 +13,9 @@ I'm a Data Scientist and a PhD Student in Healtcare AI at Gemelli Hospital of Ro
 
 [![py, pytorch, tensorflow, pycharm, linux, r, mongodb, mysql, html, css, bootstrap, django, git, docker](https://skillicons.dev/icons?i=py,pytorch,tensorflow,pycharm,linux,r,mongodb,mysql,html,css,bootstrap,django,git,docker)](https://skillicons.dev)
 
-    
+## 🏆 My Stats:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LivLilli&show_icons=true&theme=transparent)
+
                     
                   
