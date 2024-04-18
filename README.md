@@ -11,7 +11,7 @@ I'm a Data Scientist and a PhD Student in Healtcare AI at Gemelli Hospital of Ro
 
 ## 💻 My Tech Stack:
 
-[![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
+[![py](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
     
                     
