@@ -15,7 +15,7 @@ impact. Currently working at Gemelli IRCCS Hospital (Rome).
 
 ## 💻 My Tech Stack:
 
-[![py, pytorch, tensorflow, pycharm, linux, r, mongodb, mysql, html, css, bootstrap, django, git, docker](https://skillicons.dev/icons?i=py,pytorch,tensorflow,pycharm,linux,r,mongodb,mysql,html,css,bootstrap,django,git,docker)](https://skillicons.dev)
+[![py, pytorch, tensorflow, vscode, pycharm, linux, r, mongodb, mysql, html, css, bootstrap, django, git, docker, aws, bash, github, gitlab](https://skillicons.dev/icons?i=py,pytorch,tensorflow,vscode,pycharm,linux,r,mongodb,mysql,html,css,bootstrap,django,git,docker,aws,bash,github,gitlab)](https://skillicons.dev)
 
 
                     
