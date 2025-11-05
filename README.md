@@ -7,17 +7,16 @@ Hi [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/lilli_livia)
 
 
-I'm a Data Scientist and a PhD Student in Healtcare AI at Gemelli Hospital of Rome.
+Data Scientist and AI Engineer specialised in Natural Language Processing, Generative AI and Machine Learning for healthcare.
+4+ years of experience building LLM pipelines, agents, predictive models and dashboards for clinical practice. PhD
+candidate in AI for Oncological Science (end scheduled in Nov 2025). Passionate about translating AI research intoreal-world
+impact. Currently working at Gemelli IRCCS Hospital (Rome).
+
 
 ## 💻 My Tech Stack:
 
 [![py, pytorch, tensorflow, pycharm, linux, r, mongodb, mysql, html, css, bootstrap, django, git, docker](https://skillicons.dev/icons?i=py,pytorch,tensorflow,pycharm,linux,r,mongodb,mysql,html,css,bootstrap,django,git,docker)](https://skillicons.dev)
 
-## 🏆 My Stats:
-<p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LivLilli&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LivLilli&layout=compact&theme=dark" />&nbsp;&nbsp;
-</p>
 
                     
                   
