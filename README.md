@@ -9,7 +9,7 @@
 </p>
 
 
-AI Engineer at the NLP R&D unit of Gemelli Hospital (top 15% globally).
+<p align="center">AI Engineer at the NLP R&D unit of Gemelli Hospital (top 15% globally).</p>
 
 
 ---
