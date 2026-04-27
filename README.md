@@ -7,9 +7,7 @@ Hi [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/lilli_livia)
 
 
-AI Engineer specialised in Natural Language Processing, Generative AI and Machine Learning for healthcare.
-5+ years of experience building LLM pipelines, agents, predictive models and dashboards for clinical practice. PhD in AI in Medicine. Passionate about translating AI research into real-world
-impact. Currently working at Gemelli IRCCS Hospital (Rome).
+AI Engineer with 5+ years of experience in NLP and Generative AI, applied to large-scale real-world systems. Currently at the NLP R&D unit at Gemelli Hospital (top 15% globally), delivering AI-driven solutions in production. Authored 20+ publications in peer-reviewed conferences/journals and delivered 10+ AI projects.
 
 
 ## 💻 My Tech Stack:
