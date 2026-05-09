@@ -15,7 +15,7 @@
 
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="LivLilli's stats" src="https://github-readme-stats.vercel.app/api?username=LivLilli&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs"></a><br>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="LivLilli's stats" src="https://github-readme-stats.vercel.app/api?username=LivLilli&show_icons=true&count_private=false&include_all_commits=true&hide=issues,contribs"></a><br>
 </p>
 
                     
