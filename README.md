@@ -12,7 +12,7 @@
 <p align="center">AI Engineer at the NLP R&D unit of <a href="https://www.policlinicogemelli.it/en/">Gemelli Hospital</a> (<a href="https://rankings.newsweek.com/worlds-best-hospitals-2026">top 15% globally)</a>.</p>
 
 
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LivLilli&theme=github_dark)
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="LivLilli's stats" src="https://github-readme-stats.vercel.app/api?username=LivLilli&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs"></a><br>
