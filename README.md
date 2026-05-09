@@ -10,8 +10,6 @@
 
 
 <p align="center">AI Engineer at the NLP R&D unit of <a href="https://www.policlinicogemelli.it/en/">Gemelli Hospital</a> (<a href="https://rankings.newsweek.com/worlds-best-hospitals-2026">top 15% globally)</a>.</p>
-
-
-[![LivLilli's GitHub stats](https://github-readme-stats.vercel.app/api?username=livlilli)]
                     
                   
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=LivLilli)](https://github.com/pranesh-2005/github-readme-stats-fast)
